@@ -1,0 +1,2 @@
+Model,Best_CV_Accuracy,Accuracy,Precision,Recall,F1_Score,ROC_AUC,Best_Parameters
+AdaBoost,0.7556710649073705,0.7532467532467533,0.76,0.7402597402597403,0.75,0.8331927812447294,"{'estimator__max_depth': 1, 'estimator__min_samples_split': 2, 'learning_rate': 1.0, 'n_estimators': 100}"

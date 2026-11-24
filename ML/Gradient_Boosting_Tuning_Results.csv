@@ -1,0 +1,2 @@
+Model,Best_CV_Accuracy,Accuracy,Precision,Recall,F1_Score,ROC_AUC,Best_Parameters
+Gradient Boosting,0.7719578835132613,0.7662337662337663,0.7733333333333333,0.7532467532467533,0.7631578947368421,0.8628773823579019,"{'learning_rate': 0.05, 'max_depth': 3, 'min_samples_leaf': 1, 'min_samples_split': 5, 'n_estimators': 200}"
